@@ -1,14 +1,14 @@
 [
 {
-  "modid": "horticulture",
-  "name": "Horticulture,
-  "description": "A mod for the cultivation and refinement of crops.",
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Clubbryce", "expert700"],
-  "credits": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
